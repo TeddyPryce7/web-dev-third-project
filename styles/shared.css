@@ -44,7 +44,7 @@ header a{
   border-radius: 6px;
 }
 
-header a:hover, header a:active{
+header nav a:hover, header nav a:active{
   color: rgb(77, 77, 77);
   background-color: rgb(255, 251, 0);
 
